@@ -1,2 +1,2 @@
 # LabStartRap
-Project introductory development in class
+Introductory project development in class
